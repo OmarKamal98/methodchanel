@@ -1,6 +1,6 @@
 # methodchanel
 
-A new Flutter project.
+ Flutter project  showing how to use MethodChanel to write code native in flutter.
 
 ## Getting Started
 
